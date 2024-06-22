@@ -1,26 +1,5 @@
 import "./App.css"
 import {useState} from "react";
-// // Import the functions you need from the SDKs you need
-// import { initializeApp } from "firebase/app";
-// import { getAnalytics } from "firebase/analytics";
-// // TODO: Add SDKs for Firebase products that you want to use
-// // https://firebase.google.com/docs/web/setup#available-libraries
-
-// // Your web app's Firebase configuration
-// // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-// const firebaseConfig = {
-//   apiKey: "AIzaSyDuDdjkRHl9woTNBtRni5CYb660iG_Cqf0",
-//   authDomain: "notes-app-d01d3.firebaseapp.com",
-//   projectId: "notes-app-d01d3",
-//   storageBucket: "notes-app-d01d3.appspot.com",
-//   messagingSenderId: "934691326498",
-//   appId: "1:934691326498:web:9e183c5235fe6f52b7d87b",
-//   measurementId: "G-XWEKFRL9TP"
-// };
-
-// // Initialize Firebase
-// const app = initializeApp(firebaseConfig);
-// const analytics = getAnalytics(app);
 
 type Note = {
   id: number;
