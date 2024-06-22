@@ -30,3 +30,17 @@ Make sure you have Node.js installed.
    git clone https://github.com/srivatsan0611/notes-app-ui.git
    cd notes-app
    ```
+2. Install npm packages
+
+   ```
+   npm install
+   ```
+
+### Usage
+
+Once the above steps are done, go ahead and Start the dev server using the command
+```
+npm start
+```
+
+Now, go to your browser's "localhost:3000" path if it doesn't open automatically.
